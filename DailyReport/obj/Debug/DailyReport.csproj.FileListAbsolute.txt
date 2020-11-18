@@ -1,0 +1,7 @@
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\DailyReport\obj\Debug\DailyReport.csprojAssemblyReference.cache
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\DailyReport\obj\Debug\DailyReport.pdb
