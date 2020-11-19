@@ -1,0 +1,7 @@
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\BooleanLogic\bin\Debug\BooleanLogic.exe.config
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\BooleanLogic\bin\Debug\BooleanLogic.exe
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\BooleanLogic\bin\Debug\BooleanLogic.pdb
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\BooleanLogic\obj\Debug\BooleanLogic.csprojAssemblyReference.cache
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\BooleanLogic\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\BooleanLogic\obj\Debug\BooleanLogic.exe
+C:\Users\linds\Source\Repos\TechAcademyC-SharpProjects\BooleanLogic\obj\Debug\BooleanLogic.pdb
