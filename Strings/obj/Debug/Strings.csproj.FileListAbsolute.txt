@@ -1,0 +1,6 @@
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Strings\bin\Debug\Strings.exe.config
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Strings\bin\Debug\Strings.exe
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Strings\bin\Debug\Strings.pdb
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Strings\obj\Debug\Strings.exe
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Strings\obj\Debug\Strings.pdb
