@@ -1,0 +1,7 @@
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Branching\bin\Debug\Branching.exe.config
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Branching\bin\Debug\Branching.exe
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Branching\bin\Debug\Branching.pdb
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Branching\obj\Debug\Branching.exe
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Branching\obj\Debug\Branching.pdb
