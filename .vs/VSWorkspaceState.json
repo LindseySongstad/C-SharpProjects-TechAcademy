@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BooleanLogic",
-    "\\DailyReport",
-    "\\MathAndComparisonOperators",
-    "\\VariablesAndDataTypes"
+    "\\ConsoleApp6partAssignment"
   ],
-  "SelectedNode": "\\BooleanLogic\\Program.cs",
+  "SelectedNode": "\\ConsoleApp6partAssignment\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
