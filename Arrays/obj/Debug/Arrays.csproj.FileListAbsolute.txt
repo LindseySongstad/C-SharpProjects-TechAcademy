@@ -1,0 +1,6 @@
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Arrays\bin\Debug\Arrays.exe
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Arrays\bin\Debug\Arrays.pdb
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Arrays\obj\Debug\Arrays.exe
+C:\Users\linds\source\repos\TechAcademyC-SharpProjects\Arrays\obj\Debug\Arrays.pdb

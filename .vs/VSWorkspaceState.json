@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ExceptionHandling"
+    "\\BlackJack",
+    "\\ExceptionHandling",
+    "\\Tutorials"
   ],
-  "SelectedNode": "\\ExceptionHandling\\Program.cs",
+  "SelectedNode": "\\BlackJack\\Card2.cs",
   "PreviewInSolutionExplorer": false
 }
